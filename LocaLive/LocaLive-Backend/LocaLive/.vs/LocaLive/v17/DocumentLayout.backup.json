@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi\\localive\\localive\\localive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|solutionrelative:localive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi\\localive\\localive\\localive\\services\\chatgptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|solutionrelative:localive\\services\\chatgptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi\\localive\\localive\\localive\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|solutionrelative:localive\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi\\localive\\localive\\localive\\controllers\\chatgptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|solutionrelative:localive\\controllers\\chatgptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi\\localive\\localive\\localive\\class\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|solutionrelative:localive\\class\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi\\localive\\localive\\localive\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|solutionrelative:localive\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi\\localive\\localive\\localive\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|solutionrelative:localive\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi\\localive\\localive\\localive\\class\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|solutionrelative:localive\\class\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi\\localive\\localive\\localive\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|solutionrelative:localive\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi\\localive\\localive\\localive\\services\\ticketmasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|solutionrelative:localive\\services\\ticketmasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi\\localive\\localive\\localive\\repositorys\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|solutionrelative:localive\\repositorys\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi\\localive\\localive\\localive\\controllers\\ticketmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|solutionrelative:localive\\controllers\\ticketmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|c:\\users\\ahmet\\onedrive\\masa\u00FCst\u00FC\\bitirme projesi\\localive\\localive\\localive\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}|LocaLive\\LocaLive.csproj|solutionrelative:localive\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Program.cs",
+              "RelativeDocumentMoniker": "LocaLive\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Program.cs",
+              "RelativeToolTip": "LocaLive\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:37:25.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Class\\Event.cs",
+              "RelativeDocumentMoniker": "LocaLive\\Class\\Event.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Class\\Event.cs",
+              "RelativeToolTip": "LocaLive\\Class\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:36:24.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "LocaLive\\Controllers\\LocationController.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "LocaLive\\Controllers\\LocationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:31:14.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Class\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "LocaLive\\Class\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Class\\LoginRequest.cs",
+              "RelativeToolTip": "LocaLive\\Class\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:30:23.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TicketmasterService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Services\\TicketmasterService.cs",
+              "RelativeDocumentMoniker": "LocaLive\\Services\\TicketmasterService.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Services\\TicketmasterService.cs",
+              "RelativeToolTip": "LocaLive\\Services\\TicketmasterService.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAkwMwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:28:58.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LocationService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Services\\LocationService.cs",
+              "RelativeDocumentMoniker": "LocaLive\\Services\\LocationService.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Services\\LocationService.cs",
+              "RelativeToolTip": "LocaLive\\Services\\LocationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:28:55.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatGPTService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Services\\ChatGPTService.cs",
+              "RelativeDocumentMoniker": "LocaLive\\Services\\ChatGPTService.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Services\\ChatGPTService.cs",
+              "RelativeToolTip": "LocaLive\\Services\\ChatGPTService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:28:43.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Repositorys\\EventRepository.cs",
+              "RelativeDocumentMoniker": "LocaLive\\Repositorys\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Repositorys\\EventRepository.cs",
+              "RelativeToolTip": "LocaLive\\Repositorys\\EventRepository.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:28:39.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TicketmasterController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Controllers\\TicketmasterController.cs",
+              "RelativeDocumentMoniker": "LocaLive\\Controllers\\TicketmasterController.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Controllers\\TicketmasterController.cs",
+              "RelativeToolTip": "LocaLive\\Controllers\\TicketmasterController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:28:34.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LocaLive\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LocaLive\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwv3YAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T21:17:24.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TripController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Controllers\\TripController.cs",
+              "RelativeDocumentMoniker": "LocaLive\\Controllers\\TripController.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Controllers\\TripController.cs",
+              "RelativeToolTip": "LocaLive\\Controllers\\TripController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T20:13:47.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatGPTController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Controllers\\ChatGPTController.cs",
+              "RelativeDocumentMoniker": "LocaLive\\Controllers\\ChatGPTController.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Controllers\\ChatGPTController.cs",
+              "RelativeToolTip": "LocaLive\\Controllers\\ChatGPTController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAADwv34AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T20:07:23.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "LocaLive\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\ahmet\\OneDrive\\Masa\u00FCst\u00FC\\bitirme projesi\\LocaLive\\LocaLive\\LocaLive\\Controllers\\EventController.cs",
+              "RelativeToolTip": "LocaLive\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAADwv4AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T20:07:12.258Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

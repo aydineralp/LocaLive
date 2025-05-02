@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocaLive", "LocaLive\LocaLive.csproj", "{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4B54638A-4A2B-456B-9C3F-B83579A33F81}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E921FAB7-AC83-4726-9C6D-B15720AE6DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09C62BA1-4EF8-4EE7-893C-091E6E46933F}
+	EndGlobalSection
+EndGlobal

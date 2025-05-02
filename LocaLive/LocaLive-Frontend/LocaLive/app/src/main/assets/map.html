@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>OpenLayers Map</title>
+    <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/ol@latest/dist/ol.css"
+            type="text/css"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/ol@latest/dist/ol.js"></script>
+</head>
+<body>
+<div id="map" style="width: 100vw; height: 100vh;"></div>
+
+<script>
+    var map = new ol.Map({
+        target: 'map',
+        layers: [
+            new ol.layer.Tile({
+                source: new ol.source.OSM({
+                    attributions: '' // OpenStreetMap yazısını kaldırır
+                })
+            })
+        ],
+        view: new ol.View({
+            center: ol.proj.fromLonLat([29.0, 41.0]),
+            zoom: 9
+        })
+    });
+
+    var markerLayer = new ol.layer.Vector({
+        source: new ol.source.Vector(),
+    });
+    map.addLayer(markerLayer);
+
+    var routeLayer = new ol.layer.Vector({
+        source: new ol.source.Vector(),
+        style: new ol.style.Style({
+            stroke: new ol.style.Stroke({
+                color: 'blue', // Çizgi rengi (Buradan değiştirebilirsin)
+                width: 3
+            })
+        })
+    });
+    map.addLayer(routeLayer);
+
+    var coordinates = [];
+
+    function getIconByRequestGroupId(requestGroupId) {
+        var iconMap = {
+            1: 'file:///android_asset/musical-note.png',   // Müzik 🎵
+            2: 'file:///android_asset/theatre.png', // Tiyatro 🎭
+            3: 'file:///android_asset/microphone.png' // Mikrofon 🎤 (Stand-Up, Komedi)
+        };
+
+        return iconMap[requestGroupId] || 'https://cdn-icons-png.flaticon.com/512/1673/1673221.png'; // Varsayılan ikon
+    }
+
+    function addMarker(lat, lon, eventName, requestGroupId) {
+        var latitude = parseFloat(lat);
+        var longitude = parseFloat(lon);
+        var coord = ol.proj.fromLonLat([longitude, latitude]);
+        coordinates.push(coord); // Yeni noktayı kaydet
+
+        var iconFeature = new ol.Feature({
+            geometry: new ol.geom.Point(coord),
+            eventName: eventName
+        });
+
+        var iconStyle = new ol.style.Style({
+            image: new ol.style.Icon({
+                anchor: [0.5, 1],
+                src: getIconByRequestGroupId(requestGroupId),
+                scale: 0.07
+            })
+        });
+
+        iconFeature.setStyle(iconStyle);
+        markerLayer.getSource().addFeature(iconFeature);
+
+        // Yeni noktalar eklendikçe çizgiyi oluştur
+        drawRoute();
+    }
+
+    function drawRoute() {
+        if (coordinates.length < 2) return; // En az iki nokta varsa çizgi oluştur
+
+        var routeFeature = new ol.Feature({
+            geometry: new ol.geom.LineString(coordinates)
+        });
+
+        routeLayer.getSource().clear(); // Önceki çizgiyi temizle
+        routeLayer.getSource().addFeature(routeFeature);
+    }
+
+    function fitMarkers() {
+        var extent = markerLayer.getSource().getExtent();
+        if (!ol.extent.isEmpty(extent)) {
+            map.getView().fit(extent, {
+                padding: [50, 50, 50, 50],
+                maxZoom: 16
+            });
+        }
+    }
+
+    map.on('singleclick', function (evt) {
+        map.forEachFeatureAtPixel(evt.pixel, function (feature) {
+            var name = feature.get('eventName');
+            if (name) {
+                alert("Etkinlik Adı: " + name);
+            }
+        });
+    });
+</script>
+
+
+
+
+</body>
+</html>
